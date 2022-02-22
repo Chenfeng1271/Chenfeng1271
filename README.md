@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, my name is Feng Chen 👋
 
-<!--
-**Chenfeng1271/Chenfeng1271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m now working at DiDi Chuxing on Computer Vision Algorithm Engineer.
+- 🌱 I’m interested in the area of Federated Learning, Adversarial Attack, Person Re-identification and Vision Language Processing.
+- 👯 I’m always open to meaningful collaborations.
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: Skating! Skiing~ Fun Projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://github-readme-stats.vercel.app/api?username=Duan-JM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+Following are some of my favorite repositories that I have contributed to and/or contribute to. 
