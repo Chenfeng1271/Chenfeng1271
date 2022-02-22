@@ -9,7 +9,6 @@
 - ⚡ Fun fact: Skating! Skiing~ Fun Projects. 
 - 💬 ask me about anything, i am happy to help;
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220" />
 <img src="https://github-readme-stats.vercel.app/api?username=Chenfeng1271&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 Following are some of my favorite repositories that I have contributed to and/or contribute to. 
