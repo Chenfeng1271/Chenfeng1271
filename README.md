@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m now working at DiDi Chuxing on Computer Vision Algorithm Engineer.
-- :partying_face: I will join V3A Lab of The University of Adelaide, as a Ph.D. student.
+- :partying_face: I join V3A(Vision, Ask, Answer, Aact) Lab of The University of Adelaide, led by Dr. Qi Wu, as a Ph.D. student.
 - 🌱 I’m interested in the area of Federated Learning, Adversarial Attack, Person Re-identification and Vision Language Processing.
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: He/His.
