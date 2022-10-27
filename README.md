@@ -1,7 +1,6 @@
 ### Hi, my name is Feng Chen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🔭 I’m now working at DiDi Chuxing as a Computer Vision Algorithm Engineer.
 - :partying_face: I join V3A(Vision, Ask, Answer, Act) Lab of The University of Adelaide, led by Dr. Qi Wu, as a Ph.D. student.
 - 🌱 I’m interested in the area of Federated Learning, Adversarial Attack, Person Re-identification and Vision Language Processing.
 - 👯 I’m always open to meaningful collaborations.
