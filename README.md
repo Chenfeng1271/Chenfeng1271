@@ -3,7 +3,7 @@
 
 - :partying_face: I join V3A(Vision, Ask, Answer, Act) Lab of The University of Adelaide, led by Dr. Qi Wu, as a Ph.D. student. I am also a member of ZIP Lab of Monash University, led by Dr. Bohan Zhuang.
 - :nerd_face: I am supervised by Dr. Qi Wu and Dr. Bohan Zhuang.
-- :hugs: I am student member of AIML(Australian Institute for Machine Learning )
+- :hugs: I am a student member of AIML(Australian Institute for Machine Learning )
 - 🌱 I’m interested in the area of Federated Learning, Adversarial Attack, Person Re-identification, and Vision Language Processing.
 - :smiley_cat: Now I focus on efficient video generation.
 - 👯 I’m always open to meaningful collaborations.
