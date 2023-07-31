@@ -5,7 +5,7 @@
 - :nerd_face: I am supervised by Dr. Qi Wu and Dr. Bohan Zhuang.
 - :hugs: I am a student member of AIML(Australian Institute for Machine Learning )
 - 🌱 I’m interested in the area of Vision Language Processing.
-- :smiley_cat: Now I focus on efficient， personalization, sequential forecasting, and downstream application of video generation.
+- :smiley_cat: Now I focus on efficient, personalization, sequential forecasting, and downstream application of video diffusion.
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: Skating! Skiing~ Fun Projects. 
